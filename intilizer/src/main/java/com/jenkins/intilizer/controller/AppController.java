@@ -1,4 +1,4 @@
-package com.jenkins.intilizer;
+package com.jenkins.intilizer.controller;
 
 import java.util.Arrays;
 import java.util.List;
